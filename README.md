@@ -1,5 +1,5 @@
 # Learning_DeepLearningFromScratch
-##ゼロから作るDeep Learningのノートブック(ipynb)
+## ゼロから作るDeep Learningのノートブック(ipynb)
 
 - Chapter01
     - Pythonのチュートリアルのためスキップ
